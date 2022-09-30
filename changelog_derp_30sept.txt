@@ -1,0 +1,8 @@
+Changelog for A12L DerpFest 30th September Update
+
+- Use EROFS in compatible partitions
+- Use F2FS for cache partition too
+- Completely remove ext4 usage
+- Fixed many bugs and improved stability 
+- Fix compatibility issues with NORMAL falcon kernel zip file
+- Read flashing instructions for sure before flashing
