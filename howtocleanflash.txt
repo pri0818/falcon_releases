@@ -1,0 +1,12 @@
+Guide :-
+
+▪️How to clean flash my roms ?
+- Make a backup for sure ( I use swift backup {ROOT} )
+- First of all dont forget to select F2FS compression option from Format data tab - Settings icon - F2FS compression checkbox
+- Wipe partitions (Dalvik, Cache, Metadata {A13 roms}, Data, Internal storage). 
+- Select the menu option from the bottom bar
+   - Select manage partitions
+   - Select Cache
+   - Select change fs from bottom
+   - Select F2FS and swipe the bottom bar to change
+- Flash rom and enjoy 👍
